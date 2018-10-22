@@ -1,6 +1,5 @@
 const express = require('express');
 const bodyParser = require('body-parser')
-const axios = require('axios');
 const controller = require('./controllers/controller.js')
 const port = 4000;
 
